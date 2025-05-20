@@ -109,18 +109,36 @@ html{
     background-color: rgb(55, 63, 81);
     font-family: "Nunito", sans-serif;
     font-optical-sizing: auto;
-    font-weight: ;
+    
+    font-style:normal;
+    padding-left: 10px;
+    color: aliceblue;
+}
+#input2{
+    margin-left: 10px
+    height : 30px;
+    width : 100px;
+    border-radius : 3px;
+    padding : 2px;
+    outline : solid 1px;
+    outline-color : rgb(67, 97, 123);
+    border-width : 0;
+    background-color : rgb(55, 63, 81);
+    font-family : "Nunito", sans-serif;
+    font-optical-sizing : auto;
+   
     font-style:normal;
     padding-left: 10px;
     color: aliceblue;
 }
 #quotebutton{
+    
     height: 30px;
     font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
   font-weight: ;
   font-style:normal;
-  background-color: rgb(23, 116, 255);
+  background-image:     linear-gradient(to bottom right,rgb(17, 0, 255),rgb(159, 101, 76));
   color: aliceblue;
   border: 0;
   border-radius: 3px;
