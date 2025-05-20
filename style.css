@@ -142,6 +142,14 @@ html{
   color: aliceblue;
   border: 0;
   border-radius: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#quotebutton:hover{
+    background-image: linear-gradient(to bottom right,rgb(236, 86, 27),rgba(9, 12, 202, 0.363));
+    outline: solid 1px rgb(37, 53, 221);
+    cursor: pointer;
+    box-shadow: 40px 0 100px rgb(255, 72, 0);
 }
 #quotation{
     display: inline-block;
